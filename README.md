@@ -10,7 +10,7 @@ Mesela + Seçiyorum:
 
 ![image](https://github.com/AstroBesat-SoftW/math_test_html_javascript/assets/128177174/ecbd792b-7ef1-40e1-9692-86533a8fdbc5)
 
-* seçiyorum:
+x seçiyorum:
 
   ![image](https://github.com/AstroBesat-SoftW/math_test_html_javascript/assets/128177174/a48662ea-3c9a-4e08-a4b8-d82c347e5cfe)
 
