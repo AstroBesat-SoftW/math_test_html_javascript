@@ -1,5 +1,5 @@
 # math_test_html_javascript
-Html and javascript math text (ask) - Matematik testi 
+Html and javascript math test (ask) - Matematik testi 
 Takım arkadaşım Kübranur Yeğiner <br>
 Ekip: <br> <hr>
 Besat Çıngar ve Kübranur Yeğiner
