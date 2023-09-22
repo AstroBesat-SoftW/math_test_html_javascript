@@ -1,8 +1,9 @@
 # math_test_html_javascript
-Html and javascript math text (ask)
-Takım arkadaşım Kübranur Yeğiner
-Ekip:
+Html and javascript math text (ask) - Matematik testi 
+Takım arkadaşım Kübranur Yeğiner <br>
+Ekip: <br> <hr>
 Besat Çıngar ve Kübranur Yeğiner
+<br>
 
 ![image](https://github.com/AstroBesat-SoftW/math_test_html_javascript/assets/128177174/5375da59-ac01-4eb9-8e2e-c72f09ddf240)
 
